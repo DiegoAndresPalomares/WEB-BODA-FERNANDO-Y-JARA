@@ -1,0 +1,10 @@
+Web final de la boda de Fernando & Jara.
+
+Para verla:
+1. Abre index.html en Chrome, Safari o Edge.
+2. Para compartirla correctamente, súbela a GitHub Pages o Netlify.
+
+Últimos cambios incluidos:
+- 2 autobuses a las 11:00 desde Real Valle Ezcaray.
+- 1 autobús a las 11:00 desde Colegio Público San Lorenzo, C/ Eliseo Cadarso, 1.
+- Vuelta con paradas en Santo Domingo, la ermita y Grañón.
